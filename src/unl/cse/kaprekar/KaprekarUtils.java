@@ -26,7 +26,7 @@ public class KaprekarUtils {
 
 		if(n < 1) {
 			return false;
-		} else if (n ==1) {
+		} else if (n == 1) {
 			return true;
 		}
 
